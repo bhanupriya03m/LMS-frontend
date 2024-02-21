@@ -7,7 +7,7 @@ function AdminDashboard() {
       <div>
     
       <div>
-        <label>Title</label>
+        <label>AdminName</label>
         <input type="text" placeholder='AdminName'/>
         <label>Password</label> 
         <input type="text" placeholder="Password" />
